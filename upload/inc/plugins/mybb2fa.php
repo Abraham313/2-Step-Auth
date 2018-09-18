@@ -20,7 +20,7 @@ function mybb2fa_info()
 		"website"		=> "http://nasyr.net/index.php",
 		"author"		=> "Created by Jones H, updatded by Nasyr.",
 		"authorsite"	=> "http://nasyr.net/index.php",
-		"version"		=> "1.3",
+		"version"		=> "1.2",
 		"compatibility" => "18*",
 		"codename"		=> "mybbfa"
 	);
